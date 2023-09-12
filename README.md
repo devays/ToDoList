@@ -1,4 +1,4 @@
-# Lista de Tarefas API
+# Lista de Tarefas API (To Do List) 
 
 Esta é uma aplicação Java Spring Boot que fornece uma API simples para gerenciar uma lista de tarefas. A aplicação utiliza um banco de dados MySQL para armazenar as informações das tarefas.
 
